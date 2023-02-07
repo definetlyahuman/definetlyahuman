@@ -1,6 +1,5 @@
 - Hi, I’m @definetlyahuman
 - I’m interested in programming mainly games and apps
-- I use python to code
 
 <!---
 definetlyahuman/definetlyahuman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
